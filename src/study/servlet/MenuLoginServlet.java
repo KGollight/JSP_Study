@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 /*
  * 서블릿으로 로그인 확인하는 클래스
  */
-@WebServlet(urlPatterns = "/login.it")
+@WebServlet(urlPatterns = "/menulogin.it")
 public class MenuLoginServlet extends HttpServlet {
 	
 	@Override
